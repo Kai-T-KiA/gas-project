@@ -5,5 +5,5 @@ Google App Scriptを触ってみたいと思ったので、息抜きに作って
 こんな感じになります。
 
 <p align="center">
-  <img src="images/screenshot.png" width="500" alt="アプリケーションのスクリーンショット">
+  <img src="images/GASイメージ.png" width="500" alt="アプリケーションのスクリーンショット">
 </p>

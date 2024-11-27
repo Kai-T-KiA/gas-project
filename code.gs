@@ -1,5 +1,6 @@
 // スプレッドシートが開かれた時に自動実行
 function onOpen() {
+　// 現在開いているスプレッドシートのユーザーインターフェース（UI）を操作するためのオブジェクトを取得
   var ui = SpreadsheetApp.getUi();
   ui.createMenu('PDF管理')
       .addItem('PDFをスキャン', 'scan_papers_folder')
